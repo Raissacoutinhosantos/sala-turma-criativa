@@ -43,5 +43,6 @@ body {
     display: inline-flex;
 }
 .estudante-div{
-display: inline-flex
+display: inline-flex;
+margin-left: 100px
 }
