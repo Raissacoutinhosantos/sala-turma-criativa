@@ -41,4 +41,6 @@ body {
 .escola-div-conteudo{
     width: 35%;
 }
-.estudante-imagem{
+.estudante-imagem{    
+    text-align: center;
+}
