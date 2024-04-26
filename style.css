@@ -40,7 +40,7 @@ body {
 
 .escola-div-conteudo{
     width: 35%;
-    display: inline-flex;
+    display: inline-block;
 }
 .estudante-div{
 display: inline-flex;
