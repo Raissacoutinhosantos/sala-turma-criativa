@@ -42,5 +42,5 @@ body {
     width: 35%;
 }
 .estudante-imagem{    
-    text-align: center;
+    display: inline-block;
 }
