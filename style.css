@@ -26,10 +26,7 @@ body {
 }
 
 .escola-imagem{
-    margin-left: 275px;
-    margin-right: 275px;
-    
-    width: 25%;
+    display: block
 }
 
 .escola{
